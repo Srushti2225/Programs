@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    int arr[] = {10, 20, 30, 40, 50};
-    int n = 5;
-    int key = 30;
+    int arr[] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
+    int n = 10;
+    int key = 40;
+    
     int i;
     int found = 0;
 
