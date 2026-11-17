@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int arr[] = {5, 2, 8, 1, 3};
-    int n = 5;
+    int arr[] = {5, 2, 8, 3,1};
+    int n = 4;
     int i, j, temp;
 
     for (i = 0; i < n - 1; i++) {
